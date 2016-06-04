@@ -1,1 +1,8 @@
-Hello MicroService. Used as part of the Hello MicroService + Docker Tutorial
+Hello Microservice. Used as part of the Hello Microservice + Docker Tutorial
+------------------------------------------------------------------------------
+
+Build the Project: mvn clean package
+
+Run the Microservice: java -jar target/hello-microservice-1.0-SNAPSHOT.jar server hello-microservice.yaml
+
+See it in action: http://localhost:9000/java/microservice
