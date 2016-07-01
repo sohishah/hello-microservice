@@ -1,0 +1,9 @@
+---
+applications:
+- name: hello
+
+buildpack: java_buildpack
+
+memory: 256MB
+
+path: target/hello-microservice-1.0-SNAPSHOT-cf.zip
