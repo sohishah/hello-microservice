@@ -5,4 +5,4 @@ Build the Project: mvn clean package
 
 Run the Microservice: java -jar target/hello-microservice-1.0-SNAPSHOT.jar server hello-microservice.yaml
 
-See it in action: http://localhost:9000/java/microservice
+See it in action: http://localhost:8080/java/microservice
